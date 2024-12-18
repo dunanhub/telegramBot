@@ -1,0 +1,2918 @@
+[
+    {
+        "fio": "Карибжанов Фархат Нуржанович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87309696675",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Темиргалиев Эльдар Шоманович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87365469837",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Ташимов Самат Саматович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87549067931",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Серикбаев Жасулан Юрийович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87977258144",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Серикбаев Олжас Олжасович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87424449479",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Болат Муратович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87171173693",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Токтаров Эльдар Муратович",
+        "course": "1",
+        "specialty": "Civil engineer",
+        "phone": "87873849436",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Айтмухаметов Хабар Кайратович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87322804839",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Серикбаев Руслан Эльдарович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87810750072",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Серикбаев Ильяс Юрийович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87814193832",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Кабдолов Ерлан Кайратович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87656581137",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Кабдолов Болат Чингизович",
+        "course": "1",
+        "specialty": "Environmental engineer",
+        "phone": "87273751559",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Токтаров Жасулан Уалиович",
+        "course": "2",
+        "specialty": "Civil engineer",
+        "phone": "87222812050",
+        "query": "Карьерный рост",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Фархат Болатович",
+        "course": "2",
+        "specialty": "Software engineer",
+        "phone": "87792039063",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Айтмухаметов Руслан Русланович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87960999482",
+        "query": "Карьерный рост",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Ержанов Нуржан Чингизович",
+        "course": "2",
+        "specialty": "Civil engineer",
+        "phone": "87817813984",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Жумабеков Юрий Ерланович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87295964738",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Кабдолов Эльдар Русланович",
+        "course": "1",
+        "specialty": "Civil engineer",
+        "phone": "87450867600",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Токтаров Руслан Шоманович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87270344591",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Хабар Шоманович",
+        "course": "2",
+        "specialty": "Environmental engineer",
+        "phone": "87854765915",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Темиргалиев Нуржан Ерланович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87716264001",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Уали Юрийович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87257317855",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Тимур Жасуланович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87142448770",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Оспанов Шоман Русланович",
+        "course": "3",
+        "specialty": "Mechanical engineer",
+        "phone": "87412078048",
+        "query": "Карьерный рост",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Мухамедиулы Юрий Асланович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87964046962",
+        "query": "Карьерный рост",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Темиргалиев Руслан Юрийович",
+        "course": "3",
+        "specialty": "Electrical engineer",
+        "phone": "87861336036",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Жаксылыков Уали Эльдарович",
+        "course": "3",
+        "specialty": "Software engineer",
+        "phone": "87836379375",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Мухамедиулы Уали Ерланович",
+        "course": "3",
+        "specialty": "Electrical engineer",
+        "phone": "87294211020",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Мухамедиулы Самат Муратович",
+        "course": "3",
+        "specialty": "Software engineer",
+        "phone": "87110383081",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Темиргалиев Аслан Ильясович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87113612902",
+        "query": "Карьерный рост",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Токтаров Хабар Муратович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87304794511",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Кулжанов Даурен Русланович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87337265190",
+        "query": "Карьерный рост",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Фархат Муратович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87160111712",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Нургалиев Кайрат Ильясович",
+        "course": "2",
+        "specialty": "Civil engineer",
+        "phone": "87337925642",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Мухамедиулы Нуржан Нуржанович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87313746865",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Оспанов Даурен Шоманович",
+        "course": "2",
+        "specialty": "Civil engineer",
+        "phone": "87408996273",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Ташимов Болат Юрийович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87236304850",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Нургалиев Кайрат Хабарович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87167975523",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Ержанов Хабар Шоманович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87802479434",
+        "query": "Карьерный рост",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Айтмухаметов Мурат Асланович",
+        "course": "2",
+        "specialty": "Software engineer",
+        "phone": "87372243805",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Хабар Дауренович",
+        "course": "3",
+        "specialty": "Mechanical engineer",
+        "phone": "87374630441",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Ташимов Уали Русланович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87362367046",
+        "query": "Карьерный рост",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Ержанов Эльдар Уалиович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87516681702",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Токтаров Нуржан Ерланович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87583908669",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Юрий Шоманович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87973336771",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Оспанов Аслан Юрийович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87431496688",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Токтаров Мурат Эльдарович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87650017389",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Жумабеков Уали Асланович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87950050160",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Кулжанов Даурен Шоманович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87893006939",
+        "query": "Карьерный рост",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Мухамедиулы Юрий Эльдарович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87813148565",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Юрий Муратович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87278655687",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Токтаров Самат Кайратович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87197629514",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Ташимов Даурен Асланович",
+        "course": "3",
+        "specialty": "Software engineer",
+        "phone": "87350387381",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Кайрат Саматович",
+        "course": "2",
+        "specialty": "Environmental engineer",
+        "phone": "87615839593",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Даулетбаев Самат Кайратович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87482546981",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Нургалиев Мурат Нуржанович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87695447970",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Токтаров Чингиз Эльдарович",
+        "course": "3",
+        "specialty": "Chemical engineer",
+        "phone": "87410853142",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Даулетбаев Руслан Болатович",
+        "course": "2",
+        "specialty": "Software engineer",
+        "phone": "87610526235",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Токтаров Юрий Жасуланович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87808423035",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Нуржан Юрийович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87409332350",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Токтаров Ильяс Хабарович",
+        "course": "2",
+        "specialty": "Environmental engineer",
+        "phone": "87559704091",
+        "query": "Карьерный рост",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Кайрат Чингизович",
+        "course": "2",
+        "specialty": "Software engineer",
+        "phone": "87744436542",
+        "query": "Карьерный рост",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Болатов Тимур Русланович",
+        "course": "3",
+        "specialty": "Electrical engineer",
+        "phone": "87544800901",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Жаксылыков Фархат Саматович",
+        "course": "1",
+        "specialty": "Environmental engineer",
+        "phone": "87709669510",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Оспанов Тимур Уалиович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87964504665",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Жаксылыков Даурен Ильясович",
+        "course": "3",
+        "specialty": "Electrical engineer",
+        "phone": "87150001574",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Оспанов Шоман Асланович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87773069151",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Болатов Фархат Ерланович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87989167179",
+        "query": "Карьерный рост",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Ерлан Ерланович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87337590121",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Сарсенбаев Чингиз Юрийович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87671866859",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Сарсенбаев Аслан Муратович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87845227241",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Ильяс Юрийович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87590619455",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Мухамедиулы Олжас Уалиович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87685219635",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Болатов Нуржан Уалиович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87773853782",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Токтаров Аслан Эльдарович",
+        "course": "1",
+        "specialty": "Environmental engineer",
+        "phone": "87114336762",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Серикбаев Тимур Фархатович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87616786800",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Темиргалиев Ильяс Асланович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87142435629",
+        "query": "Карьерный рост",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Токтаров Самат Эльдарович",
+        "course": "1",
+        "specialty": "Environmental engineer",
+        "phone": "87935949960",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Темиргалиев Тимур Муратович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87150007265",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Даулетбаев Аслан Олжасович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87739231385",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Серикбаев Мурат Нуржанович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87656285632",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Темиргалиев Тимур Уалиович",
+        "course": "1",
+        "specialty": "Environmental engineer",
+        "phone": "87383925683",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Фархат Нуржанович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87605496797",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Айтмухаметов Юрий Русланович",
+        "course": "3",
+        "specialty": "Mechanical engineer",
+        "phone": "87582979034",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Ержанов Тимур Нуржанович",
+        "course": "1",
+        "specialty": "Chemical engineer",
+        "phone": "87824862741",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Жумабеков Тимур Тимурович",
+        "course": "2",
+        "specialty": "Environmental engineer",
+        "phone": "87384134638",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Ержанов Болат Эльдарович",
+        "course": "1",
+        "specialty": "Civil engineer",
+        "phone": "87858784577",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Ташимов Мурат Ерланович",
+        "course": "1",
+        "specialty": "Civil engineer",
+        "phone": "87196172162",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Кулжанов Жасулан Асланович",
+        "course": "3",
+        "specialty": "Software engineer",
+        "phone": "87675270790",
+        "query": "Карьерный рост",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Даурен Эльдарович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87243566676",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Даурен Олжасович",
+        "course": "3",
+        "specialty": "Mechanical engineer",
+        "phone": "87148000161",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Сарсенбаев Олжас Муратович",
+        "course": "1",
+        "specialty": "Environmental engineer",
+        "phone": "87611831253",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Темиргалиев Юрий Асланович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87822908967",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Даулетбаев Жасулан Ерланович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87856089929",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Мухамедиулы Тимур Саматович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87878060733",
+        "query": "Карьерный рост",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Хабар Шоманович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87497342261",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Мухамедиулы Юрий Хабарович",
+        "course": "3",
+        "specialty": "Electrical engineer",
+        "phone": "87308117755",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Кабдолов Ильяс Эльдарович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87781137768",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Ержанов Руслан Русланович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87873820378",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Ташимов Мурат Фархатович",
+        "course": "2",
+        "specialty": "Software engineer",
+        "phone": "87304113328",
+        "query": "Карьерный рост",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Кабдолов Фархат Кайратович",
+        "course": "3",
+        "specialty": "Mechanical engineer",
+        "phone": "87180816330",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Мурат Чингизович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87778287188",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Нургалиев Ильяс Чингизович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87728070161",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Оспанов Эльдар Ерланович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87654705025",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Ташимов Мурат Муратович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87420167658",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Токтаров Тимур Саматович",
+        "course": "3",
+        "specialty": "Chemical engineer",
+        "phone": "87141405453",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Мухамедиулы Чингиз Болатович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87698072740",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Болатов Хабар Ерланович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87903907860",
+        "query": "Карьерный рост",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Тимур Жасуланович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87576044923",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Болатов Нуржан Асланович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87328061489",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Хабар Ерланович",
+        "course": "1",
+        "specialty": "Environmental engineer",
+        "phone": "87955934865",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Олжас Шоманович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87853114817",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Токтаров Олжас Русланович",
+        "course": "1",
+        "specialty": "Environmental engineer",
+        "phone": "87244547191",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Хабар Ильясович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87295898990",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Темиргалиев Уали Фархатович",
+        "course": "1",
+        "specialty": "Chemical engineer",
+        "phone": "87822633494",
+        "query": "Карьерный рост",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Ерлан Фархатович",
+        "course": "2",
+        "specialty": "Environmental engineer",
+        "phone": "87639431180",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Тимур Ерланович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87134169640",
+        "query": "Карьерный рост",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Аслан Чингизович",
+        "course": "3",
+        "specialty": "Software engineer",
+        "phone": "87589888025",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Нургалиев Нуржан Фархатович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87380786842",
+        "query": "Карьерный рост",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Токтаров Самат Болатович",
+        "course": "3",
+        "specialty": "Electrical engineer",
+        "phone": "87957788014",
+        "query": "Карьерный рост",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Даулетбаев Кайрат Шоманович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87559782972",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Жаксылыков Даурен Русланович",
+        "course": "2",
+        "specialty": "Civil engineer",
+        "phone": "87909133987",
+        "query": "Карьерный рост",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Жумабеков Тимур Хабарович",
+        "course": "3",
+        "specialty": "Software engineer",
+        "phone": "87225884977",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Уали Тимурович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87624886290",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Токтаров Фархат Юрийович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87152890039",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Жаксылыков Эльдар Дауренович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87382750197",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Даулетбаев Нуржан Ильясович",
+        "course": "1",
+        "specialty": "Environmental engineer",
+        "phone": "87630938743",
+        "query": "Карьерный рост",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Жумабеков Мурат Ерланович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87646094907",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Эльдар Дауренович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87109877021",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Самат Асланович",
+        "course": "3",
+        "specialty": "Electrical engineer",
+        "phone": "87638108182",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Уали Юрийович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87252734818",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Даурен Чингизович",
+        "course": "2",
+        "specialty": "Software engineer",
+        "phone": "87714995071",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Темиргалиев Ерлан Уалиович",
+        "course": "2",
+        "specialty": "Civil engineer",
+        "phone": "87616202422",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Аслан Дауренович",
+        "course": "1",
+        "specialty": "Civil engineer",
+        "phone": "87444005479",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Ильяс Нуржанович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87982611576",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Даулетбаев Чингиз Олжасович",
+        "course": "2",
+        "specialty": "Environmental engineer",
+        "phone": "87810652728",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Шоман Ильясович",
+        "course": "2",
+        "specialty": "Environmental engineer",
+        "phone": "87477766284",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Болатов Аслан Нуржанович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87110955678",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Эльдар Юрийович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87940404788",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Ерлан Фархатович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87258174002",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Аслан Тимурович",
+        "course": "3",
+        "specialty": "Mechanical engineer",
+        "phone": "87834485644",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Болат Кайратович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87120590165",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Ташимов Нуржан Ильясович",
+        "course": "1",
+        "specialty": "Civil engineer",
+        "phone": "87812231748",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Кабдолов Мурат Нуржанович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87613223940",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Жаксылыков Фархат Муратович",
+        "course": "3",
+        "specialty": "Software engineer",
+        "phone": "87803647781",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Оспанов Фархат Ильясович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87524730403",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Жумабеков Жасулан Чингизович",
+        "course": "2",
+        "specialty": "Civil engineer",
+        "phone": "87691651930",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Ильяс Шоманович",
+        "course": "2",
+        "specialty": "Environmental engineer",
+        "phone": "87598700400",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Жумабеков Даурен Уалиович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87278489091",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Серикбаев Болат Муратович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87739317097",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Ержанов Ильяс Ильясович",
+        "course": "2",
+        "specialty": "Software engineer",
+        "phone": "87187863829",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Олжас Жасуланович",
+        "course": "3",
+        "specialty": "Chemical engineer",
+        "phone": "87488326128",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Кулжанов Кайрат Русланович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87125485052",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Болатов Хабар Уалиович",
+        "course": "1",
+        "specialty": "Civil engineer",
+        "phone": "87278074742",
+        "query": "Карьерный рост",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Ержанов Уали Олжасович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87201565085",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Жаксылыков Ильяс Фархатович",
+        "course": "2",
+        "specialty": "Environmental engineer",
+        "phone": "87993052736",
+        "query": "Карьерный рост",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Болатов Хабар Юрийович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87617220170",
+        "query": "Карьерный рост",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Даулетбаев Болат Русланович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87182708112",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Ташимов Жасулан Тимурович",
+        "course": "3",
+        "specialty": "Software engineer",
+        "phone": "87133341565",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Кабдолов Ерлан Чингизович",
+        "course": "1",
+        "specialty": "Chemical engineer",
+        "phone": "87403465157",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Сарсенбаев Жасулан Тимурович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87339235323",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Болатов Уали Кайратович",
+        "course": "2",
+        "specialty": "Software engineer",
+        "phone": "87154068966",
+        "query": "Карьерный рост",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Айтмухаметов Нуржан Тимурович",
+        "course": "3",
+        "specialty": "Mechanical engineer",
+        "phone": "87658029671",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Сарсенбаев Ильяс Жасуланович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87986367826",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Даулетбаев Шоман Чингизович",
+        "course": "1",
+        "specialty": "Civil engineer",
+        "phone": "87365013461",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Олжас Чингизович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87363642563",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Чингиз Дауренович",
+        "course": "1",
+        "specialty": "Civil engineer",
+        "phone": "87645291755",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Ташимов Даурен Ильясович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87255285120",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Жасулан Уалиович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87341304717",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Темиргалиев Жасулан Олжасович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87340922324",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Темиргалиев Нуржан Русланович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87209109964",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Уали Русланович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87569820133",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Мухамедиулы Хабар Русланович",
+        "course": "1",
+        "specialty": "Chemical engineer",
+        "phone": "87884734639",
+        "query": "Карьерный рост",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Сарсенбаев Юрий Юрийович",
+        "course": "2",
+        "specialty": "Civil engineer",
+        "phone": "87870654742",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Тимур Шоманович",
+        "course": "2",
+        "specialty": "Civil engineer",
+        "phone": "87973144734",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Серикбаев Руслан Болатович",
+        "course": "3",
+        "specialty": "Software engineer",
+        "phone": "87241450592",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Темиргалиев Нуржан Олжасович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87943351038",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Уали Фархатович",
+        "course": "3",
+        "specialty": "Electrical engineer",
+        "phone": "87252259127",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Жаксылыков Нуржан Саматович",
+        "course": "1",
+        "specialty": "Civil engineer",
+        "phone": "87414152018",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Самат Тимурович",
+        "course": "2",
+        "specialty": "Environmental engineer",
+        "phone": "87972022470",
+        "query": "Карьерный рост",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Жумабеков Болат Тимурович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87385632227",
+        "query": "Карьерный рост",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Болатов Жасулан Болатович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87116557072",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Ташимов Эльдар Чингизович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87696300767",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Жаксылыков Даурен Русланович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87599252847",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Токтаров Хабар Фархатович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87725976615",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Кабдолов Аслан Фархатович",
+        "course": "3",
+        "specialty": "Software engineer",
+        "phone": "87116554491",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Жасулан Эльдарович",
+        "course": "3",
+        "specialty": "Chemical engineer",
+        "phone": "87352361561",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Ташимов Шоман Нуржанович",
+        "course": "3",
+        "specialty": "Electrical engineer",
+        "phone": "87935240124",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Ташимов Тимур Русланович",
+        "course": "2",
+        "specialty": "Civil engineer",
+        "phone": "87178349533",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Токтаров Руслан Дауренович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87163333209",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Кабдолов Фархат Тимурович",
+        "course": "2",
+        "specialty": "Software engineer",
+        "phone": "87708184583",
+        "query": "Карьерный рост",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Хабар Чингизович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87374301645",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Серикбаев Тимур Русланович",
+        "course": "2",
+        "specialty": "Software engineer",
+        "phone": "87193284776",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Токтаров Нуржан Муратович",
+        "course": "1",
+        "specialty": "Environmental engineer",
+        "phone": "87804043479",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Нуржан Болатович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87425300552",
+        "query": "Карьерный рост",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Токтаров Ерлан Шоманович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87979467804",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Эльдар Дауренович",
+        "course": "2",
+        "specialty": "Environmental engineer",
+        "phone": "87894038985",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Жаксылыков Руслан Нуржанович",
+        "course": "2",
+        "specialty": "Mechanical engineer",
+        "phone": "87309541885",
+        "query": "Карьерный рост",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Ержанов Аслан Юрийович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87279742906",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Хабар Юрийович",
+        "course": "1",
+        "specialty": "Chemical engineer",
+        "phone": "87265837623",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Жумабеков Уали Хабарович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87857740029",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Ташимов Ильяс Тимурович",
+        "course": "3",
+        "specialty": "Electrical engineer",
+        "phone": "87327096493",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Серикбаев Юрий Асланович",
+        "course": "2",
+        "specialty": "Civil engineer",
+        "phone": "87204570689",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Мухамедиулы Ильяс Шоманович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87967661586",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Сарсенбаев Шоман Саматович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87901244594",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Ержанов Жасулан Эльдарович",
+        "course": "1",
+        "specialty": "Environmental engineer",
+        "phone": "87541752809",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Уали Дауренович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87749555860",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Оспанов Руслан Кайратович",
+        "course": "3",
+        "specialty": "Software engineer",
+        "phone": "87631584889",
+        "query": "Карьерный рост",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Сарсенбаев Кайрат Тимурович",
+        "course": "1",
+        "specialty": "Environmental engineer",
+        "phone": "87414496889",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Кулжанов Ильяс Дауренович",
+        "course": "3",
+        "specialty": "Mechanical engineer",
+        "phone": "87242577121",
+        "query": "Карьерный рост",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Нуржан Жасуланович",
+        "course": "2",
+        "specialty": "Software engineer",
+        "phone": "87843516755",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Ташимов Фархат Дауренович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87920015916",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Самат Чингизович",
+        "course": "1",
+        "specialty": "Environmental engineer",
+        "phone": "87988170983",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Ержанов Болат Шоманович",
+        "course": "1",
+        "specialty": "Civil engineer",
+        "phone": "87114954258",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Мухамедиулы Ильяс Шоманович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87486779749",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Эльдар Кайратович",
+        "course": "3",
+        "specialty": "Software engineer",
+        "phone": "87964295963",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Руслан Русланович",
+        "course": "3",
+        "specialty": "Mechanical engineer",
+        "phone": "87342224990",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Серикбаев Болат Болатович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87778712062",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Айтмухаметов Нуржан Дауренович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87109474230",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Сарсенбаев Хабар Дауренович",
+        "course": "3",
+        "specialty": "Chemical engineer",
+        "phone": "87810236758",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Эльдар Чингизович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87978604009",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Хабар Хабарович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87789700306",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Болатов Нуржан Олжасович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87506467008",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Жаксылыков Ерлан Ильясович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87240716592",
+        "query": "Карьерный рост",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Серикбаев Чингиз Хабарович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87524482894",
+        "query": "Карьерный рост",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Болатов Олжас Тимурович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87902325068",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Хабар Тимурович",
+        "course": "1",
+        "specialty": "Civil engineer",
+        "phone": "87499860026",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Жумабеков Хабар Олжасович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87341431210",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Жаксылыков Эльдар Фархатович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87988448214",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Карибжанов Мурат Уалиович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87509185074",
+        "query": "Улучшение навыков коммуникации",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Четверг",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Серикбаев Даурен Дауренович",
+        "course": "2",
+        "specialty": "Electrical engineer",
+        "phone": "87258872676",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Даулетбаев Жасулан Чингизович",
+        "course": "1",
+        "specialty": "Chemical engineer",
+        "phone": "87420186448",
+        "query": "Карьерный рост",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Эльдар Кайратович",
+        "course": "3",
+        "specialty": "Environmental engineer",
+        "phone": "87152927552",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Баймагамбетов Эльдар Ильясович",
+        "course": "1",
+        "specialty": "Chemical engineer",
+        "phone": "87699515457",
+        "query": "Карьерный рост",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Нурпеисов Мурат Кайратович",
+        "course": "2",
+        "specialty": "Chemical engineer",
+        "phone": "87526921787",
+        "query": "Межличностные конфликты",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Уалиханов Фархат Фархатович",
+        "course": "2",
+        "specialty": "Environmental engineer",
+        "phone": "87120137822",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Кулжанов Фархат Асланович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87998741519",
+        "query": "Личное саморазвитие",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Айтмухаметов Кайрат Дауренович",
+        "course": "3",
+        "specialty": "Civil engineer",
+        "phone": "87699926589",
+        "query": "Карьерный рост",
+        "preferred_methods": "Гештальт-терапия",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Токтаров Мурат Эльдарович",
+        "course": "1",
+        "specialty": "Software engineer",
+        "phone": "87623734290",
+        "query": "Трудности в обучении",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Среда",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Нургалиев Руслан Русланович",
+        "course": "1",
+        "specialty": "Mechanical engineer",
+        "phone": "87693726853",
+        "query": "Стресс и анксиозность",
+        "preferred_methods": "Формат беседы",
+        "appointment": {
+            "day": "Вторник",
+            "time": "10:00-11:00"
+        }
+    },
+    {
+        "fio": "Кулжанов Фархат Олжасович",
+        "course": "2",
+        "specialty": "Software engineer",
+        "phone": "87575383396",
+        "query": "Карьерный рост",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Среда",
+            "time": "12:00-13:00"
+        }
+    },
+    {
+        "fio": "Ташимов Уали Русланович",
+        "course": "3",
+        "specialty": "Chemical engineer",
+        "phone": "87366587293",
+        "query": "Карьерный рост",
+        "preferred_methods": "Коучинг",
+        "appointment": {
+            "day": "Среда",
+            "time": "14:00-15:00"
+        }
+    },
+    {
+        "fio": "Айтмухаметов Ерлан Тимурович",
+        "course": "1",
+        "specialty": "Electrical engineer",
+        "phone": "87864217587",
+        "query": "Карьерный рост",
+        "preferred_methods": "Психоанализ",
+        "appointment": {
+            "day": "Четверг",
+            "time": "14:00-15:00"
+        }
+    }
+]

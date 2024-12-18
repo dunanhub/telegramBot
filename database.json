@@ -1,0 +1,653 @@
+{
+    "count": 54,
+    "appointments": [
+        {
+            "fio": "Убниев Бекзат Нурсипатович",
+            "course": "1",
+            "specialty": "Software engineer",
+            "phone": "87066160468",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Вторник",
+                "time": "12:00-13:00"
+            }
+        },
+        {
+            "fio": "Айгерим Алимкулов улы",
+            "course": "2",
+            "specialty": "Информационные системы",
+            "phone": "+77142430569",
+            "query": "Ситуация связанная с учебой",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Среда",
+                "time": "14:00-15:00"
+            }
+        },
+        {
+            "fio": "Бауыржан Алимкулов қызы",
+            "course": "2",
+            "specialty": "Product Management",
+            "phone": "+77716742983",
+            "query": "Другое",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Среда",
+                "time": "12:00-13:00"
+            }
+        },
+        {
+            "fio": "Бауыржан Алимкулов қызы",
+            "course": "1",
+            "specialty": "Product Management",
+            "phone": "+77034747862",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Среда",
+                "time": "16:00-17:00"
+            }
+        },
+        {
+            "fio": "Нуржан Бектуров қызы",
+            "course": "3",
+            "specialty": "Data Science",
+            "phone": "+77295129541",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Пятница",
+                "time": "14:00-15:00"
+            }
+        },
+        {
+            "fio": "Асем Алимкулов улы",
+            "course": "2",
+            "specialty": "Software engineer",
+            "phone": "+77626082374",
+            "query": "Другое",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Пятница",
+                "time": "13:00-14:00"
+            }
+        },
+        {
+            "fio": "Нуржан Мирзаханов улы",
+            "course": "2",
+            "specialty": "Информационные системы",
+            "phone": "+77731695942",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Вторник",
+                "time": "15:00-16:00"
+            }
+        },
+        {
+            "fio": "Айгерим Байжанов улы",
+            "course": "1",
+            "specialty": "Информационные системы",
+            "phone": "+77433347330",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Понедельник",
+                "time": "13:00-14:00"
+            }
+        },
+        {
+            "fio": "Айгерим Саттаров улы",
+            "course": "2",
+            "specialty": "Data Science",
+            "phone": "+77626172909",
+            "query": "Межличностные взаимоотношения",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Четверг",
+                "time": "14:00-15:00"
+            }
+        },
+        {
+            "fio": "Айгерим Джумабаев улы",
+            "course": "1",
+            "specialty": "New Media",
+            "phone": "+77766219239",
+            "query": "Семейные взаимоотношения",
+            "preferred_methods": "Проективные техники",
+            "appointment": {
+                "day": "Вторник",
+                "time": "13:00-14:00"
+            }
+        },
+        {
+            "fio": "Салтанат Байжанов улы",
+            "course": "3",
+            "specialty": "Tourism and event management",
+            "phone": "+77283196832",
+            "query": "Семейные взаимоотношения",
+            "preferred_methods": "Проективные техники",
+            "appointment": {
+                "day": "Понедельник",
+                "time": "13:00-14:00"
+            }
+        },
+        {
+            "fio": "Дана Джумабаев улы",
+            "course": "2",
+            "specialty": "Data Science",
+            "phone": "+77281059162",
+            "query": "Семейные взаимоотношения",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Понедельник",
+                "time": "14:00-15:00"
+            }
+        },
+        {
+            "fio": "Жасулан Токтасынов қызы",
+            "course": "3",
+            "specialty": "Software engineer",
+            "phone": "+77928301530",
+            "query": "Межличностные взаимоотношения",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Среда",
+                "time": "12:00-13:00"
+            }
+        },
+        {
+            "fio": "Тимур Айтжанов улы",
+            "course": "2",
+            "specialty": "Информационные системы",
+            "phone": "+77392204220",
+            "query": "Межличностные взаимоотношения",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Пятница",
+                "time": "16:00-17:00"
+            }
+        },
+        {
+            "fio": "Мирас Токтасынов қызы",
+            "course": "1",
+            "specialty": "New Media",
+            "phone": "+77872175325",
+            "query": "Ситуация связанная с учебой",
+            "preferred_methods": "Проективные техники",
+            "appointment": {
+                "day": "Понедельник",
+                "time": "14:00-15:00"
+            }
+        },
+        {
+            "fio": "Ерке Токтасынов қызы",
+            "course": "3",
+            "specialty": "New Media",
+            "phone": "+77619952191",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Пятница",
+                "time": "12:00-13:00"
+            }
+        },
+        {
+            "fio": "Салтанат Байжанов қызы",
+            "course": "3",
+            "specialty": "New Media",
+            "phone": "+77834948313",
+            "query": "Межличностные взаимоотношения",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Среда",
+                "time": "16:00-17:00"
+            }
+        },
+        {
+            "fio": "Айгерим Бектуров улы",
+            "course": "2",
+            "specialty": "Software engineer",
+            "phone": "+77213391892",
+            "query": "Другое",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Четверг",
+                "time": "15:00-16:00"
+            }
+        },
+        {
+            "fio": "Тимур Мирзаханов қызы",
+            "course": "2",
+            "specialty": "New Media",
+            "phone": "+77117508214",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Среда",
+                "time": "14:00-15:00"
+            }
+        },
+        {
+            "fio": "Айгерим Алимкулов улы",
+            "course": "3",
+            "specialty": "Информационные системы",
+            "phone": "+77226720983",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Пятница",
+                "time": "14:00-15:00"
+            }
+        },
+        {
+            "fio": "Тимур Саттаров қызы",
+            "course": "2",
+            "specialty": "Data Science",
+            "phone": "+77402313265",
+            "query": "Ситуация связанная с учебой",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Четверг",
+                "time": "16:00-17:00"
+            }
+        },
+        {
+            "fio": "Дана Жаксыбаев қызы",
+            "course": "2",
+            "specialty": "Информационные системы",
+            "phone": "+77762756703",
+            "query": "Межличностные взаимоотношения",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Вторник",
+                "time": "14:00-15:00"
+            }
+        },
+        {
+            "fio": "Ерке Алимкулов улы",
+            "course": "2",
+            "specialty": "Информационные системы",
+            "phone": "+77209427204",
+            "query": "Ситуация связанная с учебой",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Вторник",
+                "time": "12:00-13:00"
+            }
+        },
+        {
+            "fio": "Салтанат Куанышев қызы",
+            "course": "3",
+            "specialty": "Software engineer",
+            "phone": "+77011780928",
+            "query": "Семейные взаимоотношения",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Четверг",
+                "time": "13:00-14:00"
+            }
+        },
+        {
+            "fio": "Иван Смирнов овна",
+            "course": "1",
+            "specialty": "Product Management",
+            "phone": "+77166349581",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Среда",
+                "time": "16:00-17:00"
+            }
+        },
+        {
+            "fio": "Виктор Васильев ович",
+            "course": "3",
+            "specialty": "Tourism and event management",
+            "phone": "+77445704199",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Среда",
+                "time": "15:00-16:00"
+            }
+        },
+        {
+            "fio": "Виктор Васильев ович",
+            "course": "3",
+            "specialty": "Data Science",
+            "phone": "+77929395899",
+            "query": "Семейные взаимоотношения",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Четверг",
+                "time": "13:00-14:00"
+            }
+        },
+        {
+            "fio": "Мария Зайцев ович",
+            "course": "1",
+            "specialty": "Data Science",
+            "phone": "+77789953902",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Среда",
+                "time": "15:00-16:00"
+            }
+        },
+        {
+            "fio": "Юлия Васильев овна",
+            "course": "1",
+            "specialty": "Software engineer",
+            "phone": "+77893953360",
+            "query": "Ситуация связанная с учебой",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Четверг",
+                "time": "13:00-14:00"
+            }
+        },
+        {
+            "fio": "Виктор Иванов овна",
+            "course": "3",
+            "specialty": "Tourism and event management",
+            "phone": "+77587453120",
+            "query": "Ситуация связанная с учебой",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Понедельник",
+                "time": "14:00-15:00"
+            }
+        },
+        {
+            "fio": "Ольга Зайцев овна",
+            "course": "1",
+            "specialty": "New Media",
+            "phone": "+77247962785",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Понедельник",
+                "time": "12:00-13:00"
+            }
+        },
+        {
+            "fio": "Иван Волков ович",
+            "course": "2",
+            "specialty": "Software engineer",
+            "phone": "+77555441663",
+            "query": "Межличностные взаимоотношения",
+            "preferred_methods": "Проективные техники",
+            "appointment": {
+                "day": "Среда",
+                "time": "15:00-16:00"
+            }
+        },
+        {
+            "fio": "Мария Петров овна",
+            "course": "2",
+            "specialty": "Software engineer",
+            "phone": "+77157437712",
+            "query": "Ситуация связанная с учебой",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Вторник",
+                "time": "14:00-15:00"
+            }
+        },
+        {
+            "fio": "Юлия Иванов овна",
+            "course": "1",
+            "specialty": "Product Management",
+            "phone": "+77589705217",
+            "query": "Ситуация связанная с учебой",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Пятница",
+                "time": "14:00-15:00"
+            }
+        },
+        {
+            "fio": "Сергей Иванов овна",
+            "course": "2",
+            "specialty": "Data Science",
+            "phone": "+77620284168",
+            "query": "Семейные взаимоотношения",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Среда",
+                "time": "12:00-13:00"
+            }
+        },
+        {
+            "fio": "Иван Соловьев овна",
+            "course": "1",
+            "specialty": "Tourism and event management",
+            "phone": "+77848976054",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Пятница",
+                "time": "12:00-13:00"
+            }
+        },
+        {
+            "fio": "Виктор Васильев ович",
+            "course": "2",
+            "specialty": "Product Management",
+            "phone": "+77605864158",
+            "query": "Ситуация связанная с учебой",
+            "preferred_methods": "Проективные техники",
+            "appointment": {
+                "day": "Пятница",
+                "time": "15:00-16:00"
+            }
+        },
+        {
+            "fio": "Сергей Сидоров ович",
+            "course": "3",
+            "specialty": "New Media",
+            "phone": "+77607825580",
+            "query": "Межличностные взаимоотношения",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Вторник",
+                "time": "15:00-16:00"
+            }
+        },
+        {
+            "fio": "Дмитрий Смирнов ович",
+            "course": "1",
+            "specialty": "Product Management",
+            "phone": "+77473997075",
+            "query": "Другое",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Пятница",
+                "time": "15:00-16:00"
+            }
+        },
+        {
+            "fio": "Виктор Павлов ович",
+            "course": "1",
+            "specialty": "Tourism and event management",
+            "phone": "+77891054335",
+            "query": "Межличностные взаимоотношения",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Понедельник",
+                "time": "13:00-14:00"
+            }
+        },
+        {
+            "fio": "Сергей Смирнов ович",
+            "course": "2",
+            "specialty": "Информационные системы",
+            "phone": "+77461110317",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Проективные техники",
+            "appointment": {
+                "day": "Пятница",
+                "time": "12:00-13:00"
+            }
+        },
+        {
+            "fio": "Ольга Павлов овна",
+            "course": "1",
+            "specialty": "Информационные системы",
+            "phone": "+77411525748",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Четверг",
+                "time": "16:00-17:00"
+            }
+        },
+        {
+            "fio": "Виктор Соловьев овна",
+            "course": "3",
+            "specialty": "Software engineer",
+            "phone": "+77495122812",
+            "query": "Ситуация связанная с учебой",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Среда",
+                "time": "16:00-17:00"
+            }
+        },
+        {
+            "fio": "Дмитрий Петров ович",
+            "course": "1",
+            "specialty": "Product Management",
+            "phone": "+77926478953",
+            "query": "Семейные взаимоотношения",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Четверг",
+                "time": "16:00-17:00"
+            }
+        },
+        {
+            "fio": "Иван Петров овна",
+            "course": "2",
+            "specialty": "Информационные системы",
+            "phone": "+77197178749",
+            "query": "Межличностные взаимоотношения",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Понедельник",
+                "time": "16:00-17:00"
+            }
+        },
+        {
+            "fio": "Анна Петров ович",
+            "course": "1",
+            "specialty": "Product Management",
+            "phone": "+77089323272",
+            "query": "Межличностные взаимоотношения",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Среда",
+                "time": "16:00-17:00"
+            }
+        },
+        {
+            "fio": "Елена Зайцев овна",
+            "course": "3",
+            "specialty": "Data Science",
+            "phone": "+77075049116",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Пятница",
+                "time": "14:00-15:00"
+            }
+        },
+        {
+            "fio": "Анна Козлов овна",
+            "course": "2",
+            "specialty": "Tourism and event management",
+            "phone": "+77394645734",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Коучинг",
+            "appointment": {
+                "day": "Среда",
+                "time": "14:00-15:00"
+            }
+        },
+        {
+            "fio": "Юлия Павлов ович",
+            "course": "1",
+            "specialty": "Информационные системы",
+            "phone": "+77702192691",
+            "query": "Семейные взаимоотношения",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Четверг",
+                "time": "12:00-13:00"
+            }
+        },
+        {
+            "fio": "Елена Волков ович",
+            "course": "3",
+            "specialty": "Product Management",
+            "phone": "+77775459665",
+            "query": "Межличностные взаимоотношения",
+            "preferred_methods": "Проективные техники",
+            "appointment": {
+                "day": "Среда",
+                "time": "12:00-13:00"
+            }
+        },
+        {
+            "fio": "Юлия Зайцев овна",
+            "course": "3",
+            "specialty": "Product Management",
+            "phone": "+77696839608",
+            "query": "Личное саморазвитие",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Пятница",
+                "time": "12:00-13:00"
+            }
+        },
+        {
+            "fio": "Сергей Петров ович",
+            "course": "3",
+            "specialty": "New Media",
+            "phone": "+77429888301",
+            "query": "Межличностные взаимоотношения",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Вторник",
+                "time": "16:00-17:00"
+            }
+        },
+        {
+            "fio": "Виктор Васильев овна",
+            "course": "2",
+            "specialty": "Product Management",
+            "phone": "+77480241082",
+            "query": "Другое",
+            "preferred_methods": "Разбор на метафорических картах",
+            "appointment": {
+                "day": "Четверг",
+                "time": "14:00-15:00"
+            }
+        },
+        {
+            "fio": "Елена Павлов ович",
+            "course": "3",
+            "specialty": "Software engineer",
+            "phone": "+77296446303",
+            "query": "Семейные взаимоотношения",
+            "preferred_methods": "Формат беседы",
+            "appointment": {
+                "day": "Четверг",
+                "time": "16:00-17:00"
+            }
+        }
+    ]
+}
